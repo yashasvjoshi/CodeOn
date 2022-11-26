@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+
+
+body{
+    background-color:white;
+    color: black;
+    /* padding: 2px; */
+}
+
+.tar{
+    /* margin: 12vw; */
+    text-align: right;
+}
+
+.romo{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.anker{
+    text-align: right;
+}
+
+/* margin-top: mart */
+/* .mart{
+    margin-top: 5vh;;
+} */
